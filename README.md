@@ -32,8 +32,11 @@ When a Photo Album is created and multiple members have completed and shared, a 
 Winner recieves special (diamond) Framed Photo.
 
 ## Current Limitations:
-Product - Marketing, Established Competitors, Onboarding Test Markets, Proof-Of-Concept
-Technical - Updating NFT's and Technologies (Database, Servers, Languages and Frameworks)
+Product:
+Marketing, Established Competitors, Onboarding Test Markets, Proof-Of-Concept
+
+Technical:
+Updating NFT's and Technologies (Database, Servers, Languages and Frameworks)
 
 ## Future Additions:
 Competitions (ex. America's funniest home videos, Family/Community Competitions for Summarizing a Years Moments, Community/Global Competitions for moments of Families vs Families, Best Top Shot Dunks of 2020 Season, Biggest Loser for Health Crossing Dapp, Artist Competitions for Competition Photoframes)
