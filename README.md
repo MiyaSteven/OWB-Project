@@ -54,5 +54,5 @@ How to deploy/run
 TODO 
 Link to Wireframe: Our Demo Link
 Youtube <a href="https://www.youtube.com/watch?v=qpdWmAlYGFc" target="_blank"><img src="https://www.youtube.com/watch?v=qpdWmAlYGFc" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Youtube Presentation" width="240" height="180" border="10" /></a>
 
