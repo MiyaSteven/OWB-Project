@@ -4,7 +4,7 @@ This repo contains Open World Builders project to be delivered on August 28, 202
 
 TODO per submission....
 
-
+    
     Clone this repo into your local environment
 
     Create a subfolder in this repo named with your team ID number, i.e. OWBSummer2020Project/20     // (THIS IS US, GROUP 20)
@@ -51,5 +51,8 @@ When a Photo Album is created and multiple members have completed and shared, a 
 Winner recieves special (diamond) Framed Photo.
 
 How to deploy/run 
-TODO
+TODO 
+Link to Wireframe: Our Demo Link
+Youtube <a href="https://www.youtube.com/watch?v=qpdWmAlYGFc" target="_blank"><img src="https://www.youtube.com/watch?v=qpdWmAlYGFc" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
