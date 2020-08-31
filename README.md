@@ -41,8 +41,3 @@ Moment Frames - Adding value to incentivize engagement
 Connection to companies
 Scarcity - Bronze, Silver, Gold, Platinum, Diamond
 Marketplace
-
-
-How to deploy/run
-TODO 
-## Link to Wireframe: Our Demo Link
