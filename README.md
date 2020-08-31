@@ -43,4 +43,4 @@ Scarcity - Bronze, Silver, Gold, Platinum, Diamond
 Marketplace
 
 ## Wireframe:
-<embed src="https://github.com/MiyaSteven/OWB-Project/blob/master/NifTree.pdf" type="application/pdf" />
+<a href="https://github.com/MiyaSteven/OWB-Project/blob/master/NifTree.pdf">NiFTree Balsamic Wireframe<a/>
