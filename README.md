@@ -2,7 +2,7 @@
 
 This repo contains Open World Builders project to be delivered on August 28, 2020 by group #20 Jared, JeanClaudel, Hendrik, Steven
 
-# Product
+# NiFTree
 ## Mission Statement:
 
 Everyone has an identity in life, everyone is a unique individual.  A Photo turned NFT to represent, reaffirm, and foster this concept of value is gratifying, fun, and establishes an inherent concept that others are unique individuals as well. A photo, minted into a NFT(s) of individuals has value, and after entering NiFTree, has scarcity!
