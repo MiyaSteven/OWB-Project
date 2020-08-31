@@ -53,6 +53,6 @@ Winner recieves special (diamond) Framed Photo.
 How to deploy/run 
 TODO 
 Link to Wireframe: Our Demo Link
-Youtube <a href="https://www.youtube.com/watch?v=qpdWmAlYGFc" target="_blank"><img src="https://www.youtube.com/watch?v=qpdWmAlYGFc" 
-alt="Youtube Presentation" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=qpdWmAlYGFc" target="_blank">Youtube Presentation</a>
+<a href="https://docs.google.com/presentation/d/1_uZHEz2w2oEb2xmsR_WvHk7nTEpayRAXm8VWkMNoUhU/edit#slide=id.g92384450cf_3_212">Presentation Slides</a>
 
