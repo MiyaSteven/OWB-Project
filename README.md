@@ -41,3 +41,6 @@ Moment Frames - Adding value to incentivize engagement
 Connection to companies
 Scarcity - Bronze, Silver, Gold, Platinum, Diamond
 Marketplace
+
+## Wireframe:
+<embed src="https://github.com/MiyaSteven/OWB-Project/blob/master/NifTree.pdf" type="application/pdf" />
